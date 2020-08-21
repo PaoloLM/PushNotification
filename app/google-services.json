@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1043960791408",
+    "firebase_url": "https://notificacionespushlizarraga.firebaseio.com",
+    "project_id": "notificacionespushlizarraga",
+    "storage_bucket": "notificacionespushlizarraga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043960791408:android:93d4f54ff249d44b740fb5",
+        "android_client_info": {
+          "package_name": "com.desarrollo.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043960791408-emvc9o6bvm6pnaei1olo82u488vttdcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desarrollo.pushnotification",
+            "certificate_hash": "57dc319295d70f6088d346109bec8db0d1ac43a6"
+          }
+        },
+        {
+          "client_id": "1043960791408-hu5k80gilq94uvdqpoojd43gc7m2tnbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMCWvJJBbuagul92xMZ3Khlhke3uQ6m3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043960791408-hu5k80gilq94uvdqpoojd43gc7m2tnbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="15dp"
+    app:cardCornerRadius="15dp"
+    android:elevation="5dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ACTIVIDADES.MainActivity">
+
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:textStyle="bold |italic"
+            android:textAlignment="center"
+            android:textSize="40dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Notificaciones Push en Android" />
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/txt_mensaje"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MENSAJE" />
+
+        <TextView
+            android:id="@+id/reg_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ID DEL USUARIO" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
